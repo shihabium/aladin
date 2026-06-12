@@ -1,1 +1,4 @@
 # aladin
+
+sudo apt 
+anker 
